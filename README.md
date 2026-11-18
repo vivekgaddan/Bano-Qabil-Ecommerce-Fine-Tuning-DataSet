@@ -10,4 +10,5 @@ No GPU and no API key needed for dataset preparation and validation. Only Python
 ## Steps to follow
 
 python make_dataset.py bqe_order_intent_parser
+
 python validate_dataset.py bqe_order_intent_parser
